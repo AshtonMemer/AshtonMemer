@@ -2,7 +2,7 @@
 I'm a seasoned programmer with a sophisticated taste for rhythm games.
 ### ⌨️ Programming Stuff
 I dabble in the arts of frontend, backend, and database development. My favorite language is C# but I am also proficient in JavaScript, which i primarily use for backend. I take on miscellaneous projects but I definitely do a lot of rhythm game modding. 
-### 🚀 My projects 
+### 🚀 My Main Projects 
 - **MDMC**: The Muse Dash Modding Community [[GitHub](https://github.com/MDMods)]
   - I am the owner and one of the primary developers of MDMC, a group dedicated to modding and adding custom songs & community content to the hit rhythm game Muse Dash.
 - **ReSYNX**: The MUSYNX Restoration Project [[GitHub](https://github.com/ReSYNX)]
